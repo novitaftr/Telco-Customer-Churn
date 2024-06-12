@@ -25,7 +25,7 @@ The main objectives of this project are:
    - Preprocess the dataset
 ### 3. Machine Learning Models
    - Train machine learning models using Decision Tree, Random Forest, and XGBoost algorithms.
-   - Evaluate model performance using cross-validation and test set evaluation.
+   - Evaluate model performance
    - Compare the performance of different models using appropriate evaluation metrics.
 
 ## Usage
@@ -34,4 +34,5 @@ The main objectives of this project are:
 3. **Running the Notebooks/Scripts**: Execute the provided Jupyter Notebooks or Python scripts for EDA, Data Manipulation, and Machine Learning Models.
 
 ## Contributing
-Contributions to this project are welcome! If you have any improvements, bug fixes, or feature additions, feel free to open a pull request.
+Contributions to this project are welcome! 
+If you have any improvements, bug fixes, or feature additions, feel free to open a pull request.
